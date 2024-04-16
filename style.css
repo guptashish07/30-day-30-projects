@@ -11,8 +11,9 @@
     padding: 10px;
 }
 .content{
+    text-align: center;
     width: 100%;
-    max-width: 540px;
+    max-width: 65%;
     background: #ece6e6;
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
